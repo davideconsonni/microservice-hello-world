@@ -25,4 +25,3 @@ jobs:
         with:
           provider: zhipu
           model: glm-4-7b-chat
-          api_key: ${{ secrets.ZHIPU_API_KEY }}
